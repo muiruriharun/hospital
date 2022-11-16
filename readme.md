@@ -1,2 +1,2 @@
 #demo 
-doctor management system
+doctor and patient management system
